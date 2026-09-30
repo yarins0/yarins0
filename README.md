@@ -48,7 +48,7 @@ I'm a full-stack developer who loves turning ideas into real products. I'm most 
       <br /><br />
       <code>Python</code> <code>FastAPI</code> <code>Claude API</code> <code>OpenAI Realtime</code> <code>WebRTC</code> <code>Twilio</code>
       <br /><br />
-      <b>🔒 Private repo</b>, happy to walk you through it
+      <a href="https://github.com/yarins0/ai-conductor"><b>💻 Code</b></a>
     </td>
   </tr>
   <tr>
